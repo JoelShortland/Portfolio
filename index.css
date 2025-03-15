@@ -490,6 +490,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .work__image-box {
     margin-bottom: var(--gutter-normal);
+    justify-content: center
 }
 
 @media(min-width: 901px) {
