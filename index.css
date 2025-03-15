@@ -490,8 +490,9 @@ body:not(.user-is-tabbing) a:focus {
 
 .work__image-box {
     margin-bottom: var(--gutter-normal);
+    display: flex;
     justify-content: center;
-    display: center;
+    align-items: center;
 }
 
 @media(min-width: 901px) {
